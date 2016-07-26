@@ -1,0 +1,2 @@
+Sanitation for values send to database in Product Class
+Tests for product Class
